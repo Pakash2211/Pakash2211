@@ -63,16 +63,6 @@ class Skills extends SoftwareDeveloper {
   <a href="https:" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br />
-<div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Pakash2211&show_icons=true&theme=gradient" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakash2211&layout=compact" />
-</div>
- <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Pakash2211&theme=minimal" alt="activitygraph" /> 
-<br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pakash2211" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Pakash2211" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakash2211&theme=vue" alt="summarycard"/> </p>
-<hr />
+
 
 
