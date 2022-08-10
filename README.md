@@ -2,7 +2,7 @@
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="425" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ```js
 import SoftwareDeveloper from 'India';
@@ -15,6 +15,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+  ui = ["bootstrap"];
 }
 ```
 <br/>
