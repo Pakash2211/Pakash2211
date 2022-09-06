@@ -61,7 +61,7 @@ class Skills extends SoftwareDeveloper {
   <a href="https://www.linkedin.com/in/akash-patel-2a83291b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="patelakash221199@gmail.com" href="mailto:patelakash221199@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/919664760152" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
-  <a href="https:" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="https://delightful-pegasus-1a757e.netlify.app" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br />
 
