@@ -18,6 +18,8 @@ class Skills extends SoftwareDeveloper {
   ui = ["bootstrap"];
 }
 ```
+<!--🪳ROACH&🕷️SPIDER--> 
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pakash2211&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 <a href="https://github.com/Pakash2211?tab=followers"><img src="https://img.shields.io/github/followers/akashkmt?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -70,9 +72,8 @@ class Skills extends SoftwareDeveloper {
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Pakash2211&count_private=true&theme=radical" alt="mostlypanda">
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pakash2211&theme=vue" alt="summarycard"/> </p>
 <img src="https://github-profile-trophy.vercel.app/?username=Pakash2211&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-<!--🪳ROACH&🕷️SPIDER--> 
-<p align="left">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+
+
   <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
