@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, I'm Akash Patel </h1>
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
+<img  align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500">
 
-<img align="right" alt="coding" width="390" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ```js
 import SoftwareDeveloper from 'India';
