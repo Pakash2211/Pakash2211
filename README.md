@@ -77,4 +77,4 @@ class Skills extends SoftwareDeveloper {
   <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+
